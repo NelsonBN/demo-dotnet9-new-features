@@ -44,6 +44,6 @@
 - [Demo](./src/CryptographicOperationsHashData/Program.cs)
 - [Official documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview#cryptographicoperationshashdata-method)
 
-#### New KMAC algorithms
+#### 4.2 New KMAC algorithms
 - [Demo](./src/KMACAlgorithms/Program.cs)
 - [Official documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview#kmac-algorithm)
