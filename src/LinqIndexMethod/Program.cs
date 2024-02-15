@@ -6,7 +6,8 @@
     "grape",
     "orange"];
 
-foreach (var (index, fruit) in fruits.Index())  // `Index` is new in .NET 9
+// `Index` is new in .NET 9
+foreach (var (index, fruit) in fruits.Index())
 {
     Console.WriteLine($"{index + 1}º {fruit}");
 }

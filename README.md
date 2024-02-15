@@ -1,5 +1,7 @@
 # .NET 9.0 New Features
 
+- [Post 1](https://nelsonbn.com/blog/dotnet9-new-features-preview1)
+
 
 ## Preview 1
 
@@ -17,7 +19,7 @@
 
 ### 2. LINQ
 
-#### 2.1. New `CountBy` and `CountBy` methods
+#### 2.1. New `CountBy` method
 - [Demo](./src/LinqCountBy/Program.cs)
 
 #### 2.2. New `AggregateBy` method
@@ -34,7 +36,7 @@
 
 #### 3.1. New method `Remove` in `PriorityQueue`
 - [Demo](./src/PriorityQueueRemove/Program.cs)
-- [Official documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview#collections)
+- [Official documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview#priorityqueueremove-method)
 
 
 
