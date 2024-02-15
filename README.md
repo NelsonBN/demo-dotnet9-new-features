@@ -42,7 +42,7 @@
 
 ### 4. Cryptography
 
-#### 4.1. New `CryptographicOperations.HashData()`
+#### 4.1. New method `CryptographicOperations.HashData()`
 - [Demo](./src/CryptographicOperationsHashData/Program.cs)
 - [Official documentation](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview#cryptographicoperationshashdata-method)
 
