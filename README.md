@@ -32,7 +32,7 @@
 
 
 
-### 3. Datastructures
+### 3. Data Structures
 
 #### 3.1. New method `Remove` in `PriorityQueue`
 - [Demo](./src/PriorityQueueRemove/Program.cs)
